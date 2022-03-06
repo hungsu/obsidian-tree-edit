@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-tree-edit",
+  "name": "Tree edit",
+  "version": "0.0.1",
+  "minAppVersion": "0.9.12",
+  "description": "View your note as a tree. Inspired heavily by Gingko Writer.",
+  "author": "Artem",
+  "authorUrl": "https://github.com/artem-barmin",
+  "isDesktopOnly": true
+}
